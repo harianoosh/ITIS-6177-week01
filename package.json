@@ -1,0 +1,23 @@
+{
+  "name": "Work",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harianoosh/ITIS-6177-week01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harianoosh/ITIS-6177-week01/issues"
+  },
+  "homepage": "https://github.com/harianoosh/ITIS-6177-week01#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
