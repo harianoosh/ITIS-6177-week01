@@ -1,8 +1,9 @@
 const express = require("express");
 const app = express();
 
-app.get("/Home", (req, res) => {
-  res.send("Hello World");
+app.get("/", (req, res) => {
+  console.log("Hello World!!!");
+  res.send("Hello World!!!");
 });
 
 var listner = app.listen(8080, () => {
